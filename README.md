@@ -49,5 +49,6 @@ Future Improvements
 - Display the calculation result.
 - Handle division by zero.
 - Validate invalid menu choices and non-numeric input.
+
 Author
 **ANISH**:- Created as a beginner C programming practice project.
